@@ -1,3 +1,5 @@
+Partners: Hamdi Allam, Adithya Jaychandran  
+SSIDs: 3033254473,  
 # Inline Assembly
 
 Inline assembly is contained within normal solidity code and allows low-level access to the EVM.
